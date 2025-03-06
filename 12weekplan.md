@@ -91,23 +91,6 @@
 
 ---
 
-## Progress Tracking
-- **GitHub Repository**: Use the `Codeforces-MAANG-Prep` repository to track daily progress, solutions, and reflections.
-- **Weekly Summaries**: Write a summary each week in `docs/weekly_summaries/weekX_summary.md` to reflect on progress and adjust tactics.
-
----
-
-## Additional Notes
-- **Time Management**: Use a timer to strictly split theory (1–1.5 hours) and practice (1.5–2 hours) within 3 hours daily.
-- **Distractions**: Study in a quiet space with no interruptions.
-- **Consistency**: Stick to the daily schedule and weekly goals to ensure steady progress.
-- **Resources**: Leverage GeeksforGeeks for theory, Codeforces editorials for contest insights, and LeetCode solutions for self-correction.
-
----
-
-**Stay disciplined, track your progress daily, and adjust as needed. You’ve got this!**
-
-
 | Week | Focus Topics                 | Problems to Solve                | Contests              | Milestones                         |
 |------|------------------------------|----------------------------------|-----------------------|------------------------------------|
 | 1    | Arrays, Strings              | 20 easy (LeetCode, AtCoder)      | 1 AtCoder Beginner    | Understand basic data structures   |
@@ -122,3 +105,5 @@
 | 10   | Advanced DP, Graphs          | 20 hard (Codeforces R1400)       | 1 Codeforces Div. 2   | Solve advanced problems            |
 | 11   | Review all topics            | 20 mixed (LeetCode, Codeforces)  | 2 contests            | Consolidate knowledge              |
 | 12   | Intensive practice           | 20 mixed (LeetCode, Codeforces)  | 2 contests            | Final preparation for goals        |
+
+**Stay disciplined, track your progress daily, and adjust as needed. You’ve got this!**
