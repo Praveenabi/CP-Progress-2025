@@ -9,6 +9,7 @@
 | 4  | 06/03/2025 | Implementation,BF       | 6  ATCODER A,B   | 695       |             -           |
 | 5  | 07/03/2025 | Implementation,Strings  | 7  CF 800        | 695       |             -           |
 | 6  | 08/03/2025 | Implementation,Strings  | 18 CF 800        | 695       |             -           |
+| 7  | 09/03/2025 | Implementation,Strings  | 5 ATCODER A,B    | 695       |             -           |
 
 ## Milestones
 - **Current Contest Rating**
@@ -17,8 +18,8 @@
   - **Atcoder**   : 77
 - **Total Problems Solved**
   - **Codeforces rated 800**  : 30 
-  - **Atcoder ABC Contest A** : 7
-  - **Atcoder ABC Contest B** : 7
+  - **Atcoder ABC Contest A** : 12
+  - **Atcoder ABC Contest B** : 12
 - Weeks Completed: 1/12
 
 ## Skill Metrics
