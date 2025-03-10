@@ -3,10 +3,13 @@
 ### 1.Integer Division
 - Avoid using float/double values when doing ceil/floor division of large integers
 - Ceil Division Formula 
+
 $$
 \lceil a/b \rceil  = (a / b) + (a \% b > 0)
 $$
+
 - Floor Division Formula
+
 $$
 \lfloor a/b \rfloor = (a / b) - (a \% b < 0)
 $$
@@ -18,6 +21,7 @@ $$
 ### 2. GP(Geometric Progression)
 
 - GP Formula for Integer Sequence
+
 $$
 \frac{A_{i+1}}{A} = \frac{A_{i+2}}{A_{i+1}}
 $$
