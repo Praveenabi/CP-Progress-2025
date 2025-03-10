@@ -10,6 +10,7 @@
 | 5  | 07/03/2025 | Implementation,Strings  | 7  CF 800        | 695       |             -           |
 | 6  | 08/03/2025 | Implementation,Strings  | 18 CF 800        | 695       |             -           |
 | 7  | 09/03/2025 | Implementation,Strings  | 5 ATCODER A,B    | 695       |             -           |
+| 8  | 10/03/2025 | Recursion               | 1 Leetcode Easy  | 695       |             -           |
 
 ## Milestones
 - **Current Contest Rating**
