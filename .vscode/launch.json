@@ -9,7 +9,7 @@
         "type": "cppdbg",
         "request": "launch",
         "cwd": ".",
-        "program": "/home/coco/CP-Progress-2025/Codeforces/week2/rating800/a.out",
+        "program": "/home/coco/CP-Progress-2025/Atcoder/week2/abc_contest_379/a.out",
         "MIMode": "gdb",
         "stopAtEntry": true,
         "setupCommands": [

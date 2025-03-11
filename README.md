@@ -11,6 +11,7 @@
 | 6  | 08/03/2025 | Implementation,Strings  | 18 CF 800             | 695       |             -  |
 | 7  | 09/03/2025 | Implementation,Strings  | 5  AC A,B             | 695       |             -  |
 | 8  | 10/03/2025 | Recursion,Strings       | 1  LC Easy, 2 CF 800  | 695       |             -  |
+| 9  | 11/03/2025 | Brute Force             | 2  AC A,B             | 695       |             -  |
 
 ## Milestones
 - **Current Contest Rating**
@@ -19,12 +20,13 @@
   - **Atcoder**   : 77
 - **Total Problems Solved**
   - **Codeforces rated 800**  : 32 
-  - **Atcoder ABC Contest A** : 12
-  - **Atcoder ABC Contest B** : 12
+  - **Atcoder ABC Contest A** : 14
+  - **Atcoder ABC Contest B** : 14
   - **Atcoder ABC Contest C** : -
   - **LeetCode Easy Problem** : 1
-  - **LeetCode Medi Problem** : -
-- Weeks Completed: 1/12
+  - **LeetCode Med  Problem** : -
+  - **LeetCode Hard Problem** : -
+- Weeks Completed: 2/12
 
 ## Skill Metrics
 - Avg Time per Problem: [20 mins] ---- [15 mins] (Week 1)

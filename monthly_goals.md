@@ -6,3 +6,10 @@
    - Study All Problem Solving Paradigm Approach 
    - Solve 100 A,B,C Problems in Atcoder ABC Contest
    - Solve All 800 rated problems in CF 
+
+## Month 2 
+   - Reach 1600 rating in CF 
+
+
+## Month 3 
+   - Reach 1900(Candidate Master) rating in CF  
