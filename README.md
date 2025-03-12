@@ -12,6 +12,7 @@
 | 7  | 09/03/2025 | Implementation,Strings  | 5  AC A,B             | 695       |             -  |
 | 8  | 10/03/2025 | Recursion,Strings       | 1  LC Easy, 2 CF 800  | 695       |             -  |
 | 9  | 11/03/2025 | Brute Force             | 2  AC A,B             | 695       |             -  |
+| 10 | 12/03/2025 | Brute Force             | 3  CF                 | 695       |             -  |
 
 ## Milestones
 - **Current Contest Rating**
