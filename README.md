@@ -13,14 +13,15 @@
 | 8  | 10/03/2025 | Recursion,Strings       | 1  LC Easy, 2 CF 800  | 695       |             -  |
 | 9  | 11/03/2025 | Brute Force             | 2  AC A,B             | 695       |             -  |
 | 10 | 12/03/2025 | Brute Force             | 3  CF                 | 695       |             -  |
+| 10 | 13/03/2025 | Brute Force             | 1  CF                 | 695       |             -  |
 
 ## Milestones
 - **Current Contest Rating**
-  - **Codeforces**: 695
+  - **Codeforces**: 683(-12)
   - **Codechef**  : 1*
   - **Atcoder**   : 77
 - **Total Problems Solved**
-  - **Codeforces rated 800**  : 32 
+  - **Codeforces rated 800**  : 33 
   - **Atcoder ABC Contest A** : 14
   - **Atcoder ABC Contest B** : 14
   - **Atcoder ABC Contest C** : -
