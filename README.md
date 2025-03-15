@@ -15,6 +15,7 @@
 | 10 | 12/03/2025 | Brute Force             | 3  CF                 | 695       |             -  |
 | 11 | 13/03/2025 | Brute Force             | 1  CF                 | 695       |             -  |
 | 12 | 14/03/2025 | Brute Force             | 1  CF                 | 695       |             -  |
+| 13 | 15/03/2025 | Brute Force             | 2  CF                 | 695       |             -  |
 
 ## Milestones
 - **Current Contest Rating**
@@ -22,7 +23,7 @@
   - **Codechef**  : 1*
   - **Atcoder**   : 77
 - **Total Problems Solved**
-  - **Codeforces rated 800**  : 34 
+  - **Codeforces rated 800**  : 36 
   - **Atcoder ABC Contest A** : 14
   - **Atcoder ABC Contest B** : 14
   - **Atcoder ABC Contest C** : -
