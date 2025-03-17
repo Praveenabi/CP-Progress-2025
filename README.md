@@ -14,21 +14,22 @@
 | 9  | 11/03/2025 | Brute Force             | 2  AC A,B             | 695       |             -  |
 | 10 | 12/03/2025 | Brute Force             | 3  CF                 | 695       |             -  |
 | 11 | 13/03/2025 | Brute Force             | 1  CF                 | 695       |             -  |
-| 12 | 14/03/2025 | Brute Force             | 1  CF                 | 695       |             -  |
-| 13 | 15/03/2025 | Brute Force             | 2  CF                 | 695       |             -  |
-| 13 | 16/03/2025 | Brute Force             | 1  CF                 | 695       |             -  |
+| 12 | 14/03/2025 | Brute Force             | 1  CF                 | 685       |             -  |
+| 13 | 15/03/2025 | Brute Force             | 2  CF                 | 685       |             -  |
+| 14 | 16/03/2025 | Brute Force             | 1  CF                 | 685       |             -  |
+| 15 | 17/03/2025 | Array, Impl             | 1  LC Easy, 1 AC A    | 685       |             -  |
 
 ## Milestones
 - **Current Contest Rating**
-  - **Codeforces**: 683(-12)
+  - **Codeforces**: 685(-12)
   - **Codechef**  : 1*
   - **Atcoder**   : 77
 - **Total Problems Solved**
   - **Codeforces rated 800**  : 37 
-  - **Atcoder ABC Contest A** : 14
+  - **Atcoder ABC Contest A** : 15
   - **Atcoder ABC Contest B** : 14
   - **Atcoder ABC Contest C** : -
-  - **LeetCode Easy Problem** : 1
+  - **LeetCode Easy Problem** : 2
   - **LeetCode Med  Problem** : -
   - **LeetCode Hard Problem** : -
 - Weeks Completed: 2/12
