@@ -9,7 +9,7 @@
         "type": "cppdbg",
         "request": "launch",
         "cwd": ".",
-        "program": "/home/coco/CP-Progress-2025/Atcoder/week3/abc_contest_397/a.out",
+        "program": "/home/coco/CP-Progress-2025/Atcoder/week3/abc_contest_309/a.out",
         "MIMode": "gdb",
         "stopAtEntry": true,
         "setupCommands": [

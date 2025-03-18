@@ -18,6 +18,7 @@
 | 13 | 15/03/2025 | Brute Force             | 2  CF                 | 685       |             -  |
 | 14 | 16/03/2025 | Brute Force             | 1  CF                 | 685       |             -  |
 | 15 | 17/03/2025 | Array, Impl             | 1  LC Easy, 1 AC A    | 685       |             -  |
+| 16 | 18/03/2025 | Array, Impl             | 3  AC A,B             | 685       |             -  |
 
 ## Milestones
 - **Current Contest Rating**
@@ -26,8 +27,8 @@
   - **Atcoder**   : 77
 - **Total Problems Solved**
   - **Codeforces rated 800**  : 37 
-  - **Atcoder ABC Contest A** : 15
-  - **Atcoder ABC Contest B** : 14
+  - **Atcoder ABC Contest A** : 16
+  - **Atcoder ABC Contest B** : 15
   - **Atcoder ABC Contest C** : -
   - **LeetCode Easy Problem** : 2
   - **LeetCode Med  Problem** : -
