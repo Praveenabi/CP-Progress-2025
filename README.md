@@ -18,22 +18,26 @@
 | 13 | 15/03/2025 | Brute Force             | 2  CF                 | 685       |             -  |
 | 14 | 16/03/2025 | Brute Force             | 1  CF                 | 685       |             -  |
 | 15 | 17/03/2025 | Array, Impl             | 1  LC Easy, 1 AC A    | 685       |             -  |
-| 16 | 18/03/2025 | Array, Impl             | 3  AC A,B             | 685       |             -  |
+| 16 | 18/03/2025 | Array, Impl             | 2  AC A,B             | 685       |             -  |
+| 17 | 19/03/2025 | -                       | -                     | 685       |             -  |
+| 18 | 20/03/2025 | -                       | -                     | 685       |             -  |
+| 19 | 21/03/2025 | -                       | -                     | 685       |             -  |
+| 20 | 22/03/2025 | Array, Impl             | 3  AC A,B,C           | 685       |             -  |
 
 ## Milestones
 - **Current Contest Rating**
   - **Codeforces**: 685(-12)
   - **Codechef**  : 1*
-  - **Atcoder**   : 77
+  - **Atcoder**   : 82 (+15)
 - **Total Problems Solved**
   - **Codeforces rated 800**  : 37 
-  - **Atcoder ABC Contest A** : 16
-  - **Atcoder ABC Contest B** : 15
-  - **Atcoder ABC Contest C** : -
+  - **Atcoder ABC Contest A** : 17
+  - **Atcoder ABC Contest B** : 16
+  - **Atcoder ABC Contest C** : 1
   - **LeetCode Easy Problem** : 2
   - **LeetCode Med  Problem** : -
   - **LeetCode Hard Problem** : -
-- Weeks Completed: 2/12
+- Weeks Completed: 3/12
 
 ## Skill Metrics
 - Avg Time per Problem: [20 mins] ---- [15 mins] (Week 1)
