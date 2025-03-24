@@ -23,6 +23,8 @@
 | 18 | 20/03/2025 | -                       | -                     | 685       |             -  |
 | 19 | 21/03/2025 | -                       | -                     | 685       |             -  |
 | 20 | 22/03/2025 | Array, Impl             | 3  AC A,B,C           | 685       |             -  |
+| 21 | 23/03/2025 | -                       | 3  AC A,B,C           | 685       |             -  |
+| 22 | 24/03/2025 | Strings                 | 3  LC Easy            | 685       |             -  |
 
 ## Milestones
 - **Current Contest Rating**
@@ -34,7 +36,7 @@
   - **Atcoder ABC Contest A** : 17
   - **Atcoder ABC Contest B** : 16
   - **Atcoder ABC Contest C** : 1
-  - **LeetCode Easy Problem** : 2
+  - **LeetCode Easy Problem** : 5
   - **LeetCode Med  Problem** : -
   - **LeetCode Hard Problem** : -
 - Weeks Completed: 3/12
