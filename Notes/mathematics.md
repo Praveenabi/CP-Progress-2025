@@ -14,6 +14,8 @@ $$
 \lfloor a/b \rfloor = (a / b) - (a \mod b < 0)
 $$
 
+- use case: divisibility check
+
 - Ref - [Ceil Division Editorial](https://atcoder.jp/contests/abc345/editorial/9593)
 
 - Ref - [Floor Division Editorial](https://atcoder.jp/contests/abc239/editorial/3434)
@@ -31,3 +33,7 @@ $$
 $$
 
 - Ref - [GP Editorial](https://atcoder.jp/contests/abc390/editorial/12050)
+
+### 3. Absolute Difference
+
+$|a - b| = 2|a| - |a + b|$
