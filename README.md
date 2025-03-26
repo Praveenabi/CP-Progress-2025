@@ -1,4 +1,4 @@
-# 🚀 CP Progress 2025 - Journey to Candidate Master (Goal: 2000+)
+# 🚀 CP Progress 2025 - Journey to Candidate Master
 
 ---
 
@@ -29,6 +29,7 @@
 | 21  | 23/03/2025 | 3               | 685        |          -             |
 | 22  | 24/03/2025 | 3               | 685        |          -             |
 | 23  | 25/03/2025 | 11              | 685        |          -             |
+| 24  | 26/03/2025 | -               | 649 ▼36    |          -             |
 
 ---
 
@@ -37,14 +38,14 @@
 ### 📈 Contest Ratings
 | Platform    | Current Rating  | Goal   | Progress         |
 |-------------|-----------------|--------|------------------|
-| Codeforces  | 685 ▼12         | 2000   | [░░░░░░░░░░] 34% |
+| Codeforces  | 649 ▼36         | 2000   | [░░░░░░░░░░] 34% |
 | Codechef    | 1★              |  5★   | [░░░░░░░░░░] 0%  |
 | Atcoder     | 82 ▲15          | 1900   | [░░░░░░░░░░] 8%  |
 
 ### 🧩 Problems Solved
 | Platform       | Difficulty        | Solved | Target  |
 |----------------|-------------------|--------|---------|
-| **Codeforces** | 800 (Easy)        | 37     | 100     |
+| **Codeforces** | 800 (Easy)        | 42     | 100     |
 | **Atcoder**    | ABC-A             | 17     | 100     |
 |                | ABC-B             | 16     | 100     |
 |                | ABC-C             | 1      | 100     |
@@ -55,8 +56,7 @@
 
 ### ⏳ Progress Tracker
 - **Weeks Completed**: [▓▓▓▓▓▓░░░░░░] 25% (3/12 weeks)
-- **Total Problems Solved**: 112/1000 🔥
-- **Daily Quests Completion Rate**: 65% (37/57)
+- **Total Problems Solved**: 91/1000 🔥
 
 ---
 
