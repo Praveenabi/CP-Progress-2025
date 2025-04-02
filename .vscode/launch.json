@@ -9,7 +9,7 @@
         "type": "cppdbg",
         "request": "launch",
         "cwd": ".",
-        "program": "/home/coco/CP-Progress-2025/Codechef/starwise_paths/level_up_from_1*_to_2*/basic_programming/a.out",
+        "program": "/home/coco/CP-Progress-2025/Codeforces/month2/rating800/a.out",
         "MIMode": "gdb",
         "stopAtEntry": true,
         "setupCommands": [
