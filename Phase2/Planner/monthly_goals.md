@@ -2,18 +2,7 @@
 
 ---
 
-### Month 1: March 2024
-| Goal                                        | Status  |  
-|---------------------------------------------|---------|  
-| Reach 1200 rating in CF                     | ❌      |  
-| Study All Linear and Non-Linear DS          | ❌      |  
-| Study All Problem Solving Paradigm Approach | ❌      |  
-| Solve 100 A,B,C Problems in Atcoder ABC     | ❌      |  
-| Solve All 800 rated problems in CF          | ❌      |  
-
----
-
-### Month 2: April 2024  
+### Month 1: April 2025  
 | Goal                                      | Status  |  
 |-------------------------------------------|---------|
 | Study Bronze and Silver topics in USACO   | -       | 
@@ -25,11 +14,17 @@
 | Reach 2* rating in Codeforces             | -       |
 
 
-     
+---
+
+### Month 2: May 2025 
+| Goal                                       | Status  |  
+|--------------------------------------------|---------|  
+| Reach 1900 (Candidate Master) rating in CF | -       |  
 
 ---
 
-### Month 3: May 2024 
+
+### Month 3: June 2025 
 | Goal                                       | Status  |  
 |--------------------------------------------|---------|  
 | Reach 1900 (Candidate Master) rating in CF | -       |  
