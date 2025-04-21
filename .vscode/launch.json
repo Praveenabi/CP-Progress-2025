@@ -9,7 +9,7 @@
         "type": "cppdbg",
         "request": "launch",
         "cwd": ".",
-        "program": "/home/coco/CP-Progress-2025/Platforms/Codechef/week6/a.out",
+        "program": "/home/coco/CP-Progress-2025/Phase2/Codechef/a.out",
         "MIMode": "gdb",
         "stopAtEntry": true,
         "setupCommands": [
