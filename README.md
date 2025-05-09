@@ -42,20 +42,16 @@
 | Atcoder     | 67 ▼6           | 1900   |
 
 ### 🧩 Problems Solved
-| Platform       | Difficulty        | Solved | Target  |
-|----------------|-------------------|--------|---------|
-| **Codeforces** | 800 (Easy)        | 42     | 100     |
-| **Atcoder**    | ABC-A             | 18     | 100     |
-|                | ABC-B             | 17     | 100     |
-|                | ABC-C             | 1      | 100     |
-| **LeetCode**   | Easy              | 5      | 100     |
-|                | Medium            | 0      | 100     |
-|                | Hard              | 0      | 100     |
-| **CodeChef**   | 1*                | 10     | 100     |
+| Platform       | Solved | Target  |
+|----------------|--------|---------|
+| **Codeforces** | 8      | 100     |
+| **Atcoder**    | 0      | 100     |
+| **LeetCode**   | 0      | 100     |
+| **CodeChef**   | 3      | 100     |
 
 ### ⏳ Progress Tracker
 - **Weeks Completed**: [▓▓▓▓▓▓░░░░░░] 25% (3/12 weeks)
-- **Total Problems Solved**: 93/1000 🔥
+- **Total Problems Solved**: 11/1000 🔥
 
 ---
 
